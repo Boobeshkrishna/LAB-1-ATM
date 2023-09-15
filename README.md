@@ -7,7 +7,10 @@ System.
 To create ATM System software that will meet the needs of the applicant and help them
 to withdraw money,deposit.
 ### UML DIAGRAMS:
-#### Use case
+#### communication diagram:
+![image](https://github.com/Boobeshkrishna/LAB-1-ATM/assets/141472052/31b09325-f770-4358-8e7a-8d5c294db63c)
+
+
 
 
 
